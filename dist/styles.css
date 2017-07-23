@@ -1,0 +1,15 @@
+.main__container___2nNNx {
+  background: orange;
+}
+
+.main__bigpicture___W5Oam {
+  width: 200px;
+  height: 200px;
+  /* 
+   * URL realtive to location of style.css file
+   * (in our config it's dist)
+   */
+  background: url(../style/img/kitten.jpg) no-repeat center center;
+  background-size: cover;
+}
+
